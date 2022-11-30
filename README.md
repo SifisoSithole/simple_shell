@@ -4,7 +4,7 @@
 Clone the repository. Compile the ".c" files. Run executable.
 
 ```
-$ git clone https://github.com/felipemontes/simple_shell.git
+$ git clone https://github.com/SifisoSithole/simple_shell
 ```
 
 ## Compile and start
